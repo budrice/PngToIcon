@@ -1,0 +1,9 @@
+D:\programming\PngToIcon\PngToIcon\bin\Debug\PngToIcon.exe.config
+D:\programming\PngToIcon\PngToIcon\bin\Debug\PngToIcon.exe
+D:\programming\PngToIcon\PngToIcon\bin\Debug\PngToIcon.pdb
+D:\programming\PngToIcon\PngToIcon\obj\Debug\PngToIcon.csprojAssemblyReference.cache
+D:\programming\PngToIcon\PngToIcon\obj\Debug\PngToIcon.csproj.CoreCompileInputs.cache
+D:\programming\PngToIcon\PngToIcon\obj\Debug\PngToIcon.exe
+D:\programming\PngToIcon\PngToIcon\obj\Debug\PngToIcon.pdb
+D:\programming\PngToIcon\PngToIcon\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\programming\PngToIcon\PngToIcon\obj\Debug\PngToIcon.csproj.CopyComplete

@@ -16,7 +16,7 @@ namespace PngToIcon
         /// <returns></returns>
         public static bool Convert(Stream input, Stream output)
         {
-            int size = 16;
+            int size = 32;
             Bitmap input_bit = (System.Drawing.Bitmap)System.Drawing.Bitmap.FromStream(input);
             if (input_bit != null)
             {
